@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @makintoshroda47
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Ce projet a pour but 
+de créer un bot Python 
+qui automatise la vérification des tickets de paris sur le site Winner.
+Il utilise Selenium 
+pour interagir avec le site web et extraire les informations pertinentes des tickets,
+comme les matchs gagnés et perdus, et le résultat du pari."
 
-<!---
-makintoshroda47/makintoshroda47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+N'hésite pas à m'aider si tu as des idées pour ameliorer d'autres parties du projet !
+
